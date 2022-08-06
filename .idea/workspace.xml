@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="maratona-jsf" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14fea41b-404e-46fe-9fbb-18f64407b036" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="jsf" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2B7QTTSAcmKtH9WBqrQyo3cK3kR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/newpendencies" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.17465389" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.devdojo.maratonajsf.bean.view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/newpendencies" />
+      <recent name="$PROJECT_DIR$/web/newregistration" />
+      <recent name="$PROJECT_DIR$/src/main/java/br/com/devdojo/maratonajsf/bean/flowbuilder" />
+      <recent name="$PROJECT_DIR$/web/pendencies" />
+      <recent name="$PROJECT_DIR$/web/registration" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="WildFly-22.1.1-Estudos" type="JBossConfiguration" factoryName="Local" APPLICATION_SERVER_NAME="JBoss 26.1.1.Final-Estudos" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="maratona-jsf">
+          <settings />
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="SERVER" />
+        <option name="BINDING_SET_NAME" value="" />
+        <option name="DOMAIN" value="false" />
+        <option name="SERVER_GROUP" value="main-server-group" />
+        <option name="USERNAME" value="" />
+        <option name="CREDENTIAL_ALIAS" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="JBoss" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="45247" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="maratona-jsf" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.122228235" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="JBoss Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14fea41b-404e-46fe-9fbb-18f64407b036" name="Default Changelist" comment="" />
+      <created>1656254650414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656254650414</updated>
+      <workItem from="1656254651976" duration="10163000" />
+      <workItem from="1656328927229" duration="222000" />
+      <workItem from="1656366611708" duration="1533000" />
+      <workItem from="1656375274773" duration="4802000" />
+      <workItem from="1656414486372" duration="520000" />
+      <workItem from="1656542764571" duration="8777000" />
+      <workItem from="1656582322964" duration="5107000" />
+      <workItem from="1656632131935" duration="4459000" />
+      <workItem from="1656673618773" duration="5000" />
+      <workItem from="1656680166510" duration="3407000" />
+      <workItem from="1656769756570" duration="2492000" />
+      <workItem from="1656853355108" duration="608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="183" width="802" height="681" key="#JBoss_Server" timestamp="1656255676669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="183" width="802" height="681" key="#JBoss_Server/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656255676669" />
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1656264833623">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656264833623" />
+    <state x="768" y="207" width="376" height="630" key="#com.intellij.ide.util.MemberChooser" timestamp="1656635269878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="768" y="207" width="376" height="630" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656635269878" />
+    <state x="583" y="212" width="746" height="620" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1656254778745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="583" y="212" width="746" height="620" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656254778745" />
+    <state x="555" y="181" width="802" height="681" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1656255703646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="555" y="181" width="802" height="681" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656255703646" />
+    <state x="523" y="449" width="873" height="147" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1656545880827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="523" y="449" width="873" height="147" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656545880827" />
+    <state x="735" y="268" width="426" height="515" key="FileChooserDialogImpl" timestamp="1656255675168">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="735" y="268" width="426" height="515" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656255675168" />
+    <state width="1622" height="274" key="GridCell.Tab.0.bottom" timestamp="1656683651451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1622" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656683651451" />
+    <state width="1622" height="274" key="GridCell.Tab.0.center" timestamp="1656683651450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1622" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656683651450" />
+    <state width="1622" height="274" key="GridCell.Tab.0.left" timestamp="1656683651450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1622" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656683651450" />
+    <state width="1622" height="274" key="GridCell.Tab.0.right" timestamp="1656683651450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1622" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656683651450" />
+    <state width="1294" height="274" key="GridCell.Tab.1.bottom" timestamp="1656380706670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="274" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656380706670" />
+    <state width="1294" height="274" key="GridCell.Tab.1.center" timestamp="1656380706670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="274" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656380706670" />
+    <state width="1294" height="274" key="GridCell.Tab.1.left" timestamp="1656380706670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="274" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656380706670" />
+    <state width="1294" height="274" key="GridCell.Tab.1.right" timestamp="1656380706670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1294" height="274" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656380706670" />
+    <state x="543" y="266" width="826" height="512" key="IDE.errors.dialog" timestamp="1656551550239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="543" y="266" width="826" height="512" key="IDE.errors.dialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656551550239" />
+    <state x="443" y="98" width="1026" height="849" key="SettingsEditor" timestamp="1656269380845">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="443" y="98" width="1026" height="849" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656269380845" />
+    <state x="643" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1656853355552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656673618267" />
+    <state x="643" y="348" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1656853355552" />
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1656270571154">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1656270571154" />
+  </component>
+</project>
